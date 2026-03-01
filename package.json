@@ -1,0 +1,20 @@
+{
+  "name": "qawingify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.2"
+  },
+  "dependencies": {
+    "@playwright/mcp": "^0.0.68",
+    "dotenv": "^17.3.1",
+    "openai": "^6.25.0"
+  }
+}
